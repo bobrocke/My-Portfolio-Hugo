@@ -1,0 +1,5 @@
+hugo_notes.md
+public
+*.hugo.toml
+resources/*
+pull-images.sh
