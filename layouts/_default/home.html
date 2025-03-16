@@ -1,0 +1,7 @@
+{{ define "main" }} {{ partial "categories.html" }} {{ partial "featured.html" .
+}}
+<section class="galleries">
+  {{ range where .Pages "Params.private" "ne" true }} {{ partial
+  "album-card.html" . }} {{ end }}
+</section>
+{{ end }}

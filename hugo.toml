@@ -1,6 +1,17 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bob Rockefeller Photography'
+copyright = "© Bob Rockefeller"
+timeZone = "America/New_York"
+
+[params]
+  defaultTheme = "dark"
+  # [params.socialIcons]
+  #   facebook = "https://www.facebook.com/"
+  #   instagram = "https://www.instagram.com/"
+
+[imaging]
+  quality = 90
 
 [module]
   [[module.imports]]
