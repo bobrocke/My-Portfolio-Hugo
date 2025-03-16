@@ -2,7 +2,7 @@
 menus: "main"
 title: People
 resources:
-  - src: _RJR0176.jpg
+  - src: Jan.jpg
     params:
       cover: true
 ---
