@@ -9,7 +9,9 @@ timeZone = "America/New_York"
   [params.socialIcons]
   #   facebook = "https://www.facebook.com/"
   #   instagram = "https://www.instagram.com/"
-  email = "mailto:user@example.com"
+  email = "photos@bobrockefeller.com"
+  flickr = "https://www.flickr.com/photos/bobrocke/"
+  fivehundredpx = "https://500px.com/p/BobRockefeller"
 
 [imaging]
   quality = 90
