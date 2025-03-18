@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Bob Rockefeller Photography'
 copyright = "© Bob Rockefeller"
@@ -6,9 +6,10 @@ timeZone = "America/New_York"
 
 [params]
   defaultTheme = "dark"
-  # [params.socialIcons]
+  [params.socialIcons]
   #   facebook = "https://www.facebook.com/"
   #   instagram = "https://www.instagram.com/"
+  email = "mailto:user@example.com"
 
 [imaging]
   quality = 90

@@ -3,3 +3,4 @@ public
 *.hugo.toml
 resources/*
 pull-images.sh
+.zed
