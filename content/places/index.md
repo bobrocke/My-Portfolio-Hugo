@@ -5,4 +5,8 @@ resources:
   - src: Moon_Palace_Roofs.jpg
     params:
       cover: true
+
+cascade:
+  build:
+    publishResources: false
 ---
