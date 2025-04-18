@@ -1,6 +1,6 @@
 hugo_notes.md
 public
 *.hugo.toml
-resources/*
+resources
 pull-images.sh
 .zed

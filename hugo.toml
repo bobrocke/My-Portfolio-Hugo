@@ -4,6 +4,8 @@ title = 'Bob Rockefeller Photography'
 copyright = "© Bob Rockefeller"
 timeZone = "America/New_York"
 
+theme = ['gallery']
+
 [params]
   defaultTheme = "dark"
   [params.socialIcons]
@@ -15,7 +17,3 @@ timeZone = "America/New_York"
 
 [imaging]
   quality = 90
-
-[module]
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
