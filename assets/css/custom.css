@@ -1,3 +1,11 @@
 body > header .btn {
   height: 5rem;
 }
+
+section.gallery {
+  margin: 3em;
+}
+
+section.galleries {
+  margin: 3em;
+}
