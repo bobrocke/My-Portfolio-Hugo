@@ -3,13 +3,17 @@ body > header .btn {
 }
 
 section.gallery {
-  margin: 3em;
+  margin: 2em;
 }
 
 section.galleries {
-  margin: 3em;
+  margin: 2em;
 }
 
 body {
+  padding: 2em;
+}
+
+#gallery {
   margin: 3em;
 }
